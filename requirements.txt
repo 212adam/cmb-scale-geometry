@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+healpy
+astropy
+pywavelets
+scikit-learn
+networkx
+jupyter
+tqdm
