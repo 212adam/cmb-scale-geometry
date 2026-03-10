@@ -1,0 +1,8 @@
+{
+  "statistic": "minkowski_area_fraction",
+  "dataset": "Planck SMICA NSIDE=512",
+  "mask": "|b| > 20 deg",
+  "simulations": 1000,
+  "max_abs_z": 1.3677041488742152,
+  "interpretation": "masked Minkowski area functional consistent with Gaussian simulations"
+}

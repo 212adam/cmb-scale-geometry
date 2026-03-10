@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-03-09 17:10:53",
+  "planck_value": 0.3767803777166451,
+  "simulation_mean": 0.3736215683608557,
+  "simulation_std": 0.0010919448808778306,
+  "z_score": 2.8928285768874793,
+  "n_simulations": 1000,
+  "note": "initial fractal scaling test, full sky, no mask"
+}

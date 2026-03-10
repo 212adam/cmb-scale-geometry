@@ -1,0 +1,16 @@
+{
+  "experiment": "fractal_dimension_test",
+  "dataset": "Planck SMICA NSIDE=512",
+  "statistic": "box-range fractal scaling slope",
+  "simulations": 1000,
+  "full_sky_result": {
+    "z_score": 2.89,
+    "interpretation": "moderate apparent deviation from Gaussian simulations"
+  },
+  "masked_result": {
+    "mask": "|b| > 20 deg galactic latitude cut",
+    "z_score": -0.745,
+    "interpretation": "signal disappears after masking"
+  },
+  "conclusion": "The apparent full-sky deviation is not robust and is consistent with galactic foreground contamination rather than a cosmological anomaly."
+}

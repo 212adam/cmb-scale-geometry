@@ -1,0 +1,8 @@
+{
+  "wavelet_energy_max_z": 10.216020345137263,
+  "wavelet_skew_max_z": 93.2718307716464,
+  "wavelet_kurtosis_max_z": 2682.321464529132,
+  "fractal_dimension_z": -0.6638101364709225,
+  "minkowski_area_max_z": 1.5298513355551226,
+  "simulations": 1000
+}

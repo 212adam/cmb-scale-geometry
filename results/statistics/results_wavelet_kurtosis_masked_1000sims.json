@@ -1,0 +1,14 @@
+{
+  "statistic": "wavelet_kurtosis",
+  "dataset": "Planck SMICA NSIDE=512",
+  "mask": "|b| > 20 deg",
+  "simulations": 1000,
+  "z_scores": [
+    -0.12671844519131406,
+    -0.32347712244011945,
+    -1.520547117099414,
+    0.6586162491234049,
+    2.3346403463619683
+  ],
+  "interpretation": "masked kurtosis consistent with Gaussian simulations"
+}

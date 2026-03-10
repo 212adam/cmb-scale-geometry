@@ -1,0 +1,11 @@
+{
+  "experiment": "hemispherical_power_asymmetry_simple",
+  "dataset": "Planck SMICA NSIDE=512",
+  "mask": "|b| > 20 deg",
+  "planck_asymmetry": 7.969909177063528e-10,
+  "simulation_mean": 3.8205289248763965e-10,
+  "simulation_std": 2.948857928881507e-10,
+  "z_score": 1.4071143311271623,
+  "simulations": 1000,
+  "interpretation": "No statistically significant hemispherical power asymmetry detected under simple north\u2013south split."
+}
